@@ -20,7 +20,7 @@ I'm a Computer Science student at Cambridge Institute of Technology in Bengaluru
 
 ## 📫 How to reach me
 - Email: [monishbl159@gmail.com](mailto:monishbl159@gmail.com)
-- LinkedIn: [Monish B L](https://www.linkedin.com/in/monishbl/)
+- LinkedIn: [Monish B L](https://www.linkedin.com/in/monish-b-l/)
 - Website: [portfolio.monishbl.tech](https://portfolio.monishbl.tech)
 
 ## 📊 My GitHub Stats
