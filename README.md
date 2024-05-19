@@ -20,14 +20,14 @@ I'm a Computer Science student at Cambridge Institute of Technology in Bengaluru
 
 ## 📫 How to reach me
 - Email: [monishbl159@gmail.com](mailto:monishbl159@gmail.com)
-- LinkedIn: [Monish B L](https://www.linkedin.com/in/monish-b-l/)
+- LinkedIn: [Monish B L](https://www.linkedin.com/in/monish-b-l-4687b9251)
 - Website: [portfolio.monishbl.tech](https://portfolio.monishbl.tech)
 
 ## 📊 My GitHub Stats
 | <div style="overflow: auto;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=monishbl&theme=github_dark_dimmed&show_icons=true&locale=en&layout=compact" alt="monishbl" width="300" /></div> | <div style="overflow: auto;"><img src="https://github-readme-stats.vercel.app/api?username=monishbl&theme=github_dark_dimmed&show_icons=true&locale=en" alt="monishbl" width="400" /></div> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-[![monishbl's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=monishbl&theme=github_dark_dimmed&)](https://github.com/monishbl/)
+<!-- [![monishbl's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=monishbl&theme=github_dark_dimmed&)](https://github.com/monishbl/) -->
 
 [![monishbl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=monishbl&theme=react-dark)](https://github.com/monishbl/)
 
