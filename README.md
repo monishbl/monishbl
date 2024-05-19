@@ -31,5 +31,5 @@ I'm a Computer Science student at Cambridge Institute of Technology in Bengaluru
 
 [![monishbl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=monishbl&theme=react-dark)](https://github.com/monishbl/)
 
-## 🐍 Snake Animation
-![](https://gh.ifsvivek.tech/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<!-- ## 🐍 Snake Animation
+![](https://gh.ifsvivek.tech/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
