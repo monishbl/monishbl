@@ -8,7 +8,7 @@ I'm a Computer Science student at Cambridge Institute of Technology in Bengaluru
 ## 🛠 Skills
 - **Languages:** C, Python, Java, HTML, CSS, JavaScript, TypeScript, SQL
 - **Frameworks/Libraries:** Svelte, Tailwind CSS
-- **Tools:** Vite, ESLint, Prettier, Vercel, Firebase, MongoDB
+- **Tools:** Prettier, Vercel, Firebase
 
 ## 🎨 Other interests
 - Graphic designing
