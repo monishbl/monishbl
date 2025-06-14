@@ -5,8 +5,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-monishbl.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://monishbl.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monishbl)
-[![Email](https://img.shields.io/badge/Email-monishbl159%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monishbl159@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%2090197%2045661-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919019745661)
 
 </div>
 
